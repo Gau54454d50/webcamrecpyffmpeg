@@ -1,4 +1,5 @@
-# webcamrecpyffmpeg
+#webcamrtspstreamrec 
+
 Record webcam with timestamp using ffmpeg and python (linux)
 
 run
