@@ -8,7 +8,7 @@ server-client interface update
       
 #recieves command from client to start and stop recording
 
-2. run python3 recclient.py (in different terminal after step 1)
+2. run python3 client.py (in different terminal after step 1)
 
 #gives command to server to start and stop recording
 
