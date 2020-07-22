@@ -9,7 +9,7 @@
 4.select stream and select v4l2:///dev/video0 as source in next menu and press next
 
 5.in next menu (destination setup) select rtsp  ,press add and select port 8554 if you don't want to change code .If you can change rtsp link in the code
-(details in README_NEW.md) choose whichever you want.
+(details in README.md) choose whichever you want.
 
 6.set profile as Video - H.265 + MP3 (MP4) and next 
 
